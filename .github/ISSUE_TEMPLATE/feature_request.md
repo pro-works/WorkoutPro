@@ -20,4 +20,4 @@ A clear and concise description of any alternative solutions or features you've 
 Add any other context or screenshots about the feature request here.
 
 **Visualization**
-If your idea consists of user interface changes consider uploading an illustration depicting your idea
+If your idea consists of user interface changes, consider uploading an image that depicts your idea
